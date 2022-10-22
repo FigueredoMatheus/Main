@@ -1,0 +1,21 @@
+
+.table-produtos table {
+    width: 100%;
+}
+
+.table-produtos th {
+    background-color: #283cae;
+    color: white;
+}
+
+.table-produtos td {
+    text-align: center;
+}
+
+.table-produtos .par {
+    background-color: rgba(221, 221, 221, 0.39);
+}
+
+.table-produtos .impar {
+    background-color: #ccc;
+}

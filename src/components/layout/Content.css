@@ -1,0 +1,11 @@
+.content {
+    display: flex;
+    flex-grow: 1;
+    padding: 30px;
+}
+
+.content > * {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}

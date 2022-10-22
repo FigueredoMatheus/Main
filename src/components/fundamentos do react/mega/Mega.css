@@ -1,0 +1,23 @@
+.Mega {
+    text-align: center;
+}
+
+.DisplayNumbers {
+    margin: 10px;
+}
+
+.DisplayNumbers span {
+    font-size: 1.4rem;
+    
+}
+
+.InputQtdNumbers input, label {
+    font-size: 1.4rem;
+    width: 55px;
+    margin: 10px;
+}
+
+.ButtonGenerate button {
+    font-size: 1.4rem;
+    margin: 10px;
+}

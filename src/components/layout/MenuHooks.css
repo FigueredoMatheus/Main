@@ -1,0 +1,24 @@
+.menu li  .expansion-itens-body:before {
+    content: '\25CF';
+    margin: 10px;
+    height: auto; 
+    transition: height 0ms 0ms, opacity 400ms 0ms;  
+    text-decoration: none;
+}
+
+.menu li .expansion-itens {
+    display: inline-block;
+    flex: 1;
+}
+
+.menu li .arrow-icon:after {
+    content: "\25be"; /* fa-caret-down */
+    margin-left: 10px;
+  
+}
+
+.menu li .expansion-itens.item-active .arrow-icon:after {
+    content: "\25B4";
+    margin-left: 10px;
+    
+}

@@ -1,0 +1,10 @@
+.displayOperations {
+    grid-column: span 4;
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: flex-end;
+    background: linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 73));
+    padding-right: 10px;
+    border-bottom: solid 1px black;
+}
